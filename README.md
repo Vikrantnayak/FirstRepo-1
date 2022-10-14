@@ -3,4 +3,4 @@
 #Editing
 edting file content on git hub
 
-#deleted somrthing and added again to the readme. md file
+again deleted things from README.md file to open full request
