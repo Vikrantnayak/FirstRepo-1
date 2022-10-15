@@ -1,3 +1,5 @@
-this is another
-file to understand 
-rebase conflict
+rebase conflict from file1
+=======
+it is an example of 
+rebase conflict file
+so try to understand 
