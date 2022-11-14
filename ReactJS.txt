@@ -1,0 +1,21 @@
+What is React?
+ReactJS, a JavaScript library for creating user interfaces,makes the development of UI components easy and modular.
+
+The key features of React are:
+
+Component-based architecture: A Component is the smallest unit in a React application. Anything that you want to render on the browser can be rendered through components. Components help in maintainability and re-usability.
+Virtual DOM: React uses virtual DOM concept for DOM manipulation which improves the performance of the application
+Unidirectional data flow:  React’s one-way data flow (also called one-way binding) keeps everything modular and fast and easy for debugging.
+JSX syntax: React used JSX syntax which is similar to XML and HTML syntax which makes it easy for writing markup and binding events in components 
+SEO performance: The SEO performance can be improved using the server-side rendering concept. We can develop isomorphic applications using React which increases the SEO performance.
+
+
+To install create-react-app, follow the below steps:
+1. Install node.js with version 14+ from Node.js official site or from Software House
+D:\> node -v
+2. Install create-react-app by running the following command:
+D:\>npm install -g create-react-app
+3. Once the installation is done, create a React app using the below command:
+D:\>create-react-app my-app
+​​​​​​​​​​​​​​If you do not want to install create-react-app then you can use the below command to create a React application
+After successful compilation, the application will be loaded in the browser at the port "http://localhost:3000" as shown below.
